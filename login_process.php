@@ -1,6 +1,5 @@
 <?php
 session_start();
-
 // Connect to the database
 $conn = new mysqli('localhost', 'root', '', 'system_ath');
 if ($conn->connect_error) {

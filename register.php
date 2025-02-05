@@ -24,6 +24,9 @@
             <div class="form-button">
                 <button type="submit">Register</button>
             </div>
+            <div class="form-input login-link">
+                <p>Already have an account? <a href="login.php">Login</a></p>
+            </div>
         </form>
     </div>
 </body>
